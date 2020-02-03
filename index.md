@@ -7,3 +7,4 @@
 [Work Stuff](random.md) 
 [D&D](D_n_D.md)
 [Persona](Persona.md)
+[lifting](lifting.md)
