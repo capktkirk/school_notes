@@ -12,5 +12,8 @@ A lot of interaction
 
 Timeframe May 15th - October 15th on an open source project
 
-:w
-[k](k)
+to update fork, pull it (to local) push it (to github.)
+
+to update what we forked from, push to origin, then github feature : create a pull request
+
+
