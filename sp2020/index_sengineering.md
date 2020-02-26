@@ -6,3 +6,7 @@
 [Feb lab_03rd](se_lab_feb03rd.md)
 [Feb 05th](se_feb05th.md)
 [Feb 10th](se_feb10th.md)
+[Slicing](se_slicing_the_pie.md)
+[Feb 17th](se_feb17th.md)
+[Feb 24th](se_feb24th.md)
+[Feb 26th](se_feb26th.md)
